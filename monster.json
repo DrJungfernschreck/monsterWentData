@@ -2,7 +2,7 @@
     "1": {
     "evolveTo": "2", 
     "evolveLevel": 16, 
-    "name": "Chermundar", 
+    "name": "Flógan", 
     "types": [
       "fire","flying"
     ], 
@@ -18,7 +18,7 @@
   "2": {
     "evolveTo": "3", 
     "evolveLevel": 32, 
-    "name": "Chermiliun", 
+    "name": "Fotián", 
     "types": [
       "fire","flying"
     ], 
@@ -32,7 +32,7 @@
     }
   }, 
   "3": {
-    "name": "Cherazodon", 
+    "name": "Kólasin", 
     "types": [
       "fire","flying"
     ], 
