@@ -2461,7 +2461,7 @@
 		},
 		"name": "Dagger Thrust",
 		"pp": 10,
-		"prio": 0,
+		"prio": 1,
 		"text": "Opponent may flinch",
 		"type": "fighting"
 	},
@@ -2484,7 +2484,27 @@
 		"prio": 0,
 		"text": "Attacks 4-5 Times",
 		"type": "bug"
-	}
+	},
+	"125": {
+		"acc": 85,
+		"cat": "physical",
+		"dmg": 20,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 1,
+			"flinch_chance": 0,
+			"max_hits": 3,
+			"min_hits": 2,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Swirl",
+		"pp": 10,
+		"prio": 0,
+		"text": "Hits between 2 and 3 times and may hit critical.",
+		"type": "normal"
+},
 }
     
     
